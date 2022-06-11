@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sooraj-sky
-- 👀 I’m interested in Ddvops, Cloud, Golang
+- 👀 I’m interested in Devops, Cloud, Golang
 - 🌱 I’m currently learning Golang and Kubernetes
-- 💞️ I’m looking to collaborate on ...
 - 📫 ops@skywalks.in
 
 <!---
