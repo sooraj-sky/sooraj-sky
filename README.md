@@ -11,7 +11,6 @@
     <li>👋 Hi, I’m @sooraj-sky</li>
     <li>👀 I’m interested in Devops, Cloud, Golang</li>
     <li>🌱 I’m currently learning Golang</li>
-    <li>📫 ops@skywalks.in</li>
     <a href="https://miro.com/app/board/uXjVM6rrSjw=/?share_link_id=119523917985">
   </ul>
 </div>
